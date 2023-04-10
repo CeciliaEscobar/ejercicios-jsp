@@ -18,7 +18,7 @@
          <h4> Nombre: </h4>
          <p><% out.print (request.getParameter ("nombreIntro"));%><br><br> </p>
          <h4> Carrera: </h4>
-        <p><% out.print (request.getParameter ("carrearaIntro"));%><br><br></p>
+        <p><% out.print (request.getParameter ("carreraIntro"));%><br><br></p>
         <h4> Email: </h4>
         <p><% out.print (request.getParameter ("emailIntro"));%><br><br></p>
         
